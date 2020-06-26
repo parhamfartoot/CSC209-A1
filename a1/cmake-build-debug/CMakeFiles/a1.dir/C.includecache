@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ph/Desktop/UofT/Year 3/Fall/CSC209/fartootp/a1/count_cells.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/Users/ph/Desktop/UofT/Year 3/Fall/CSC209/fartootp/a1/image.c
+stdio.h
+-
+stdbool.h
+-
+
